@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is a free software.
-Create new branch dev.
+Creating new branch is quick.
